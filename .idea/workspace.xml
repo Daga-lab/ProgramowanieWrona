@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2596701-0483-44af-9338-478b1fcdec69" name="Default Changelist" comment="" />
+    <list default="true" id="f2596701-0483-44af-9338-478b1fcdec69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zad10_PoczatekObiektowosci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zad11_ZadanieObiektowe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +20,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UgzkA5vhW09LuaiDgMIoz1hLFW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="C:/test" />
   </component>
   <component name="RunDashboard">
@@ -31,7 +42,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Zad9_Weekend3">
+  <component name="RunManager" selected="Application.Zad11_ZadanieObiektowe">
+    <configuration name="Zad10_PoczatekObiektowosci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zad10_PoczatekObiektowosci" />
+      <module name="ZajęciaPiotrWrona" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad11_ZadanieObiektowe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zad11_ZadanieObiektowe" />
+      <module name="ZajęciaPiotrWrona" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zad5_ZadaniaTablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zad5_ZadaniaTablice" />
       <module name="ZajęciaPiotrWrona" />
@@ -39,22 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad6_PracaDomowa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zad6_PracaDomowa" />
-      <module name="ZajęciaPiotrWrona" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Zad8_KontynuacjaWeekend2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zad8_KontynuacjaWeekend2" />
-      <module name="ZajęciaPiotrWrona" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zad8_SystemyLiczbowe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zad8_SystemyLiczbowe" />
       <module name="ZajęciaPiotrWrona" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zad11_ZadanieObiektowe" />
+        <item itemvalue="Application.Zad10_PoczatekObiektowosci" />
         <item itemvalue="Application.Zad9_Weekend3" />
         <item itemvalue="Application.Zad8_KontynuacjaWeekend2" />
         <item itemvalue="Application.Zad5_ZadaniaTablice" />
-        <item itemvalue="Application.Zad8_SystemyLiczbowe" />
-        <item itemvalue="Application.Zad6_PracaDomowa" />
       </list>
     </recent_temporary>
   </component>
@@ -89,5 +100,16 @@
       <updated>1575793166759</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
