@@ -48,7 +48,7 @@ class Samochod {
 
 final class Zad10_PoczatekObiektowosci {
     public static void main(String[] args) {
-        System.out.println("Witaj");
+
 
         Samochod Opel = new Samochod("Czerwony", 250);
         Samochod Ford = new Samochod("Niebieski", -180);
